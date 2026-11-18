@@ -1,1 +1,1 @@
-# lsd-tarjeta.
+# lsd-tarjeta
